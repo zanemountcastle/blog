@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Blog | Zane Mountcastle',
   author: 'Zane Mountcastle',
   headerTitle: 'Zane Mountcastle',
-  description: 'Zane Mountcastle is a software engineer who builds things at Picogrid.',
+  description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://zanemountcastle.com',
